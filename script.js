@@ -24,5 +24,5 @@ const users = [
     
     if (isLoggedIn) {
       alert('Úspěšně přihlášen.');
-      // přesměrování na další stránku, když je úspěšně přihl
+      
   
